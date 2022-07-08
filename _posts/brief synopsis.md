@@ -7,13 +7,4 @@ My travels have shaped who I am today, I cannot wait for my next adventure. </h4
 </body>
 </html>
 
-  <body>
-    <div class="wrapper">
-       <h1>Front page</h1>
-       <img src="Venous picture.PNG"alt="">
-    </div>
-  </body>
-</html>
-
-
 
