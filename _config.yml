@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
-  - {title: "Career", url:"https://jobs.apple.com/en-us/details/200356591/data-scientist?team=HRDWR" }
+  - {title: "Career", url: "https://jobs.apple.com/en-us/details/200356591/data-scientist?team=HRDWR" }
   - {file: "README.md", title: "Experience"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
