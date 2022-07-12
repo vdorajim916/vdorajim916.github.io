@@ -37,9 +37,4 @@ Senior Operations Analyst, Nova 2018 – Current
 
 </body>
 
-</head>
-<body>
-  <div class="wrapper">
-  </div>
-</body>
-</html>
+
