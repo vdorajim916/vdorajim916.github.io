@@ -12,7 +12,7 @@ title: "Experience"
 <h3>Expert in data analysis, preparation, modeling, evaluation, and deployment                      
 Skilled in content/web development, and executing marketing campaigns
 Identify, collect, and analyze datasets utilizing Google Analytics   
-  Fluent in Farsi (native) and Arabic</h3>
+Fluent in Farsi (native) and Arabic. </h3>
 
 
 </body>
