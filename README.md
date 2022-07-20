@@ -16,4 +16,17 @@ Fluent in Farsi (native) and Arabic. </h4>
 
 </body>
 
+<html>
+<body>
 
+<p>Click on the image below to learn more about employment histroy:<p>
+<a href="/images/myw3schoolsimage.jpg" download="w3logo">
+  <img src="/images/myw3schoolsimage.jpg" alt="W3Schools" width="104" height="142">
+</a>
+
+<p>Notice that the filename of the downloaded file will be saved as "w3logo.jpg" instead of "myw3schoolsimage.jpg".</p>
+
+<p><b>Note:</b> The download attribute is not supported in IE or Edge (prior version 18), or in Safari (prior version 10.1).</p>
+
+</body>
+</html>
