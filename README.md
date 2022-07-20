@@ -13,12 +13,5 @@ Skilled in content/web development, and executing marketing campaigns
 Identify, collect, and analyze datasets utilizing Google Analytics   
 Fluent in Farsi (native) and Arabic. </h4>
 
+<a download="Venous Doraji Resume_2022.docx">
 
-<html>
-<body>
-
-<p>Click on the link below to download my resume::<p>
-<a href="Venous Doraji Resume_2022.docx" alt="My Resume">
-
-<a href="Venous Doraji Resume_2022.docx"> alt="Click on the link below to download my resume!"</a>
-</a>
