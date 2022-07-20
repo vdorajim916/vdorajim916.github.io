@@ -2,9 +2,19 @@
 layout: default
 title: "Experience"
 ---
-
+#para1 {
+  text-align: center;
+  color: red;
+}
+</style>
+</head>
 <body>
+
 <p id="para1">SKILLS SUMMARY!</p>
+<p>This paragraph is not affected by the style.</p>
+
+</body>
+</html>
   
 <h4>Proficient in Microsoft Office, SharePoint, Workday, Deltek, Adobe Pro, MATLAB, SQL, Raptor, R, and GitHub 	Managerial and administrative experience in project coordination, hiring, and training.</h4>
 <h4>Expert in data analysis, preparation, modeling, evaluation, and deployment                      
