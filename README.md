@@ -20,7 +20,7 @@ Fluent in Farsi (native) and Arabic. </h4>
 <body>
 
 <p>Click on the image below to learn more about employment histroy:<p>
-<a href="/images/myw3schoolsimage.jpg" download="w3logo">
+<a href="Venous Doraji Resume_2022.docx" download="My Resume">
   <img src="/images/myw3schoolsimage.jpg" alt="W3Schools" width="104" height="142">
 </a>
 
