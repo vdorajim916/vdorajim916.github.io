@@ -23,6 +23,3 @@ Fluent in Farsi (native) and Arabic. </h4>
 <a href="Venous Doraji Resume_2022.docx" download="My Resume">
   <img src="Venous Doraji Resume_2022.docx" alt="My Resume" width="104" height="142">
 </a>
-
-</body>
-</html>
